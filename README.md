@@ -20,4 +20,4 @@ By reframing player quality as a distribution rather than a ranking, this projec
 4. Aggregate results across seasons and leagues
 5. Visualize talent compression trends
 
-Status: Phase 2 (Data & Engineering Design)
+# Status: Phase 2 (Data & Engineering Design)
