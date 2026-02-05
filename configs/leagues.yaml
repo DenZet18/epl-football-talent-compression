@@ -1,5 +1,48 @@
-leagues:
-  - code: EPL
-    name: English Premier League
-    season_start: 2015
-    season_end: 2024
+project_name: "football-talent-compression-epl"
+
+league: "EPL"
+seasons:
+  - "2015-16"
+  - "2016-17"
+  - "2017-18"
+  - "2018-19"
+  - "2019-20"
+  - "2020-21"
+  - "2021-22"
+  - "2022-23"
+  - "2023-24"
+
+positions:
+  Forward:
+    group: "ATT"
+    metric_cols:
+      - "Goals"
+      - "Assists"
+  Midfielder:
+    group: "MID"
+    metric_cols:
+      - "Assists"
+      - "Big chances created"
+      - "Through balls"
+  Defender:
+    group: "DEF"
+    metric_cols:
+      - "Tackles"
+      - "Interceptions"
+      - "Blocked shots"
+      - "Clearances"
+      - "Headed Clearance"
+  Goalkeeper:
+    group: "GK"
+    metric_cols:
+      - "Saves"
+
+regular_player_filter:
+  type: "appearances"
+  min_appearances: 10
+
+floor_definition:
+  percentile: 25
+
+ceiling_definition:
+  statistic: "max_zscore"
