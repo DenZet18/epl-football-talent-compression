@@ -1,6 +1,6 @@
 ## Research Question
 
-This project examines whether the English Premier League has experienced talent distribution compression over time — a phenomenon characterized by rising baseline performance among regular players (the “floor”) alongside reduced or more volatile separation between the most dominant individuals and their positional peers (the “ceiling”).
+This project examines whether the English Premier League has experienced talent distribution compression over time, a phenomenon characterized by rising baseline performance among regular players (the “floor”) alongside reduced or more volatile separation between the most dominant individuals and their positional peers (the “ceiling”).
 
 The analysis focuses on individual player performance within position groups rather than aggregate team outcomes, emphasizing distributional change over absolute quality.
 
