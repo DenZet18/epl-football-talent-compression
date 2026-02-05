@@ -48,14 +48,19 @@ By reframing player quality as a distribution rather than a ranking, this projec
 - **Forwards (ATT):**  
   The Premier League exhibits clear signs of attacking talent compression. While elite goal-scoring seasons still occur, the attacking ceiling is volatile rather than structurally dominant. In contrast, the attacking floor remains consistently close to the positional mean, indicating that weaker-but-regular forwards now provide more reliable output than in earlier periods.
 
+![EPL Forwards – Ceiling and Floor](figures/epl_att_ceiling_floor.png)
+
 - **Midfielders (MID):**  
   Midfield performance shows pronounced elite spikes without corresponding floor deterioration. While certain seasons feature extreme creative outliers, the lower quartile of midfielders remains remarkably stable, reflecting rising baseline technical and tactical competence driven by modern positional demands.
 
 - **Defenders (DEF):**  
   Defensive talent displays one of the strongest compression patterns. The defensive ceiling remains relatively flat, while the floor has tightened across seasons, suggesting a decline in exploitable weak defenders. This aligns with the increased importance of pressing resistance, build-up ability, and positional discipline in modern defensive roles.
 
+![EPL Defenders – Ceiling and Floor](figures/epl_def_ceiling_floor.png)
+
 - **Goalkeepers (GK):**  
   Goalkeepers show the most pronounced floor stabilization of all positions. Although elite shot-stopping seasons still emerge, the positional floor remains consistently close to the league average, indicating a narrowing gap between starting-level goalkeepers. Advances in goalkeeper coaching and recruitment likely contribute to this trend.
+
 
 ### Quantitative Summary (EPL 2015–2024)
 
